@@ -1,6 +1,6 @@
 # Merhaba, Ben Cemal! 👋
 
-Ben [mesleğiniz/alanınız] alanında bir geliştiriciyim. 💻  
+Ben Web alanında bir geliştiriciyim. 💻  
 ⚡ İlgi alanlarım: Siber Güvenlik, Development  
 📫 Bana ulaşmak için: cemalyilmaz001@yaani.com
 
@@ -8,9 +8,9 @@ Ben [mesleğiniz/alanınız] alanında bir geliştiriciyim. 💻
 
 ## 🚀 Hakkımda Kısaca:
 
-- 🌱 Şu anda [öğrendiğiniz konu/teknoloji] üzerinde çalışıyorum.
-- 🎯 Gelecek hedeflerim: [hedefleriniz, örneğin: Açık kaynak projelere katkıda bulunmak, büyük bir proje geliştirmek]
-- 🖤 Favori teknolojilerim: [örneğin: React, Node.js, Python]
+- 🌱 Şu anda & üzerinde çalışıyorum.
+- 🎯 Gelecek hedeflerim: !
+- 🖤 Favori teknolojilerim: Python, Go, React
 
 ---
 
@@ -21,7 +21,6 @@ Ben [mesleğiniz/alanınız] alanında bir geliştiriciyim. 💻
 ---
 
 ## 🌐 Bağlantılar:
-- [LinkedIn](https://www.linkedin.com/in/kullaniciadiniz)
 - [Kişisel Blog](https://dXl1bXN1eg.github.io)
 
 Teşekkürler! ✨
