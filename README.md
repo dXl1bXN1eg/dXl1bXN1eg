@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @dXl1bXN1eg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Merhaba, Ben [Adınız]! 👋
 
-<!---
-dXl1bXN1eg/dXl1bXN1eg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ben [mesleğiniz/alanınız] alanında bir geliştiriciyim. 💻  
+⚡ İlgi alanlarım: [ilgi alanlarınızı listeleyin, örneğin: Web Geliştirme, Yapay Zeka, Siber Güvenlik]  
+📫 Bana ulaşmak için: [e-posta adresiniz/linkedin profiliniz]
+
+---
+
+## 🚀 Hakkımda Kısaca:
+
+- 🌱 Şu anda [öğrendiğiniz konu/teknoloji] üzerinde çalışıyorum.
+- 🎯 Gelecek hedeflerim: [hedefleriniz, örneğin: Açık kaynak projelere katkıda bulunmak, büyük bir proje geliştirmek]
+- 🖤 Favori teknolojilerim: [örneğin: React, Node.js, Python]
+
+---
+
+## 📊 GitHub İstatistiklerim:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadiniz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadiniz&layout=compact&theme=radical)
+
+---
+
+## 🌐 Bağlantılar:
+- [LinkedIn](https://www.linkedin.com/in/kullaniciadiniz)
+- [Kişisel Blog](https://kullaniciadiniz.github.io)
+
+Teşekkürler! ✨
