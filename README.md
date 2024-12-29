@@ -1,8 +1,8 @@
-# Merhaba, Ben [Adınız]! 👋
+# Merhaba, Ben Cemal! 👋
 
 Ben [mesleğiniz/alanınız] alanında bir geliştiriciyim. 💻  
-⚡ İlgi alanlarım: [ilgi alanlarınızı listeleyin, örneğin: Web Geliştirme, Yapay Zeka, Siber Güvenlik]  
-📫 Bana ulaşmak için: [e-posta adresiniz/linkedin profiliniz]
+⚡ İlgi alanlarım: Siber Güvenlik, Development  
+📫 Bana ulaşmak için: cemalyilmaz001@yaani.com
 
 ---
 
@@ -15,13 +15,13 @@ Ben [mesleğiniz/alanınız] alanında bir geliştiriciyim. 💻
 ---
 
 ## 📊 GitHub İstatistiklerim:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kullaniciadiniz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadiniz&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dXl1bXN1eg&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dXl1bXN1eg&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Bağlantılar:
 - [LinkedIn](https://www.linkedin.com/in/kullaniciadiniz)
-- [Kişisel Blog](https://kullaniciadiniz.github.io)
+- [Kişisel Blog](https://dXl1bXN1eg.github.io)
 
 Teşekkürler! ✨
