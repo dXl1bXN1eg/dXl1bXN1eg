@@ -2,7 +2,7 @@
 
 Ben Web alanında bir geliştiriciyim. 💻  
 ⚡ İlgi alanlarım: Siber Güvenlik, Development  
-📫 Bana ulaşmak için: https://dXl1bXN1eg.github.io
+📫 Bana ulaşmak için: cemalyilmaz001[@]yaani.com
 
 ---
 
